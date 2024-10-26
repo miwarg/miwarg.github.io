@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://miwarg.github.io/Fph/sitemap.Fph
