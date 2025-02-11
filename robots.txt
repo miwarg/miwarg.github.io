@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://miwarg.csgad.com/uJx/sitemap.xml.gz
